@@ -66,7 +66,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,hibernate,html,java,js,md,mongodb,mysql,springboot,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,hibernate,html,java,js,linkedin,md,mongodb,mysql,photoshop,vscode,windows&perline=14" />
   </a>
 </p>
 
