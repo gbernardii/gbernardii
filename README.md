@@ -96,6 +96,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [Gustavo](https://github.com/gustavo)
-
-Last Edited on: 25/02/2025
