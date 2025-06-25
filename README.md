@@ -41,7 +41,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<!-- The URL has been corrected -->
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgbernardii%26theme%3Ddark%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" />
 <br></br>
 </td>
