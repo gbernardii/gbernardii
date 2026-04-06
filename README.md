@@ -1,11 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=180&section=header&text=Gustavo%20Bernardi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BDR%20@%20PlayHub%20%7C%20Flutter%20Developer&descSize=16&descAlignY=55&descColor=c5d5e8"/>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=450&height=50&lines=Construindo+produtos+próprios+🚀)
-
-</div>
-
 ## 🧑‍💻 Sobre mim
 
 ```yaml
@@ -32,20 +26,23 @@ interesses: [Mobile Dev, Empreendedorismo, Produto]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gbernardii">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gbernardii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/gbernardii">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbernardii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=6"/>
-  </a>
+  <picture>
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gbernardii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gbernardii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbernardii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=6" media="(prefers-color-scheme: dark)" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbernardii&layout=compact&hide_border=true&langs_count=6"/>
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/gbernardii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbernardii&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a5f&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6b7280"/>
-  </a>
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=gbernardii&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a5f&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6b7280" media="(prefers-color-scheme: dark)" />
+    <img src="https://streak-stats.demolab.com?user=gbernardii&hide_border=true"/>
+  </picture>
 </div>
 
 <br>
@@ -63,8 +60,6 @@ interesses: [Mobile Dev, Empreendedorismo, Produto]
     <img alt="Snake animation" src="https://raw.githubusercontent.com/gbernardii/gbernardii/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-> ⚠️ *Para a snake funcionar, configure a GitHub Action — te explico como depois.*
 
 ## 📬 Contato
 
