@@ -84,8 +84,9 @@ I build with an AI-assisted workflow ([Claude Code](https://www.anthropic.com/cl
 
 <div align="center">
 
-![Gustavo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gbernardii&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true)
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbernardii&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e)
+![Contribution graph](https://ghchart.rshah.org/3b82f6/gbernardii)
+
+![GitHub streak](https://streak-stats.demolab.com?user=gbernardii&hide_border=true&theme=transparent&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
 
 </div>
 
