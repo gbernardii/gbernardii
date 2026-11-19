@@ -17,7 +17,7 @@ São Paulo, Brazil &nbsp;·&nbsp; Business Administration @ Anhembi Morumbi &nbs
 
 I study Business Administration at Universidade Anhembi Morumbi (2nd semester). I also completed two years of Computer Science at FECAP. I work in B2B tech sales. I sell SaaS and technology solutions to companies, so I spend my days close to the problems that software is supposed to solve.
 
-On the side, I build my own projects: a condominium management app, an e-commerce site for a small brand and automation experiments. This GitHub is where I document that work and what I learn along the way.
+On the side, I build my own projects: a condominium management app, internal web systems for PlayHub, an e-commerce site for a small brand and automation experiments. This GitHub is where I document that work and what I learn along the way.
 
 What I'm after is the intersection of **business and technology**: understanding how a product is built, and also how it is positioned, sold and kept alive.
 
@@ -40,6 +40,7 @@ Things I'm building right now. Some repositories are private, so the details are
 | Project | What it is | Stack |
 |---|---|---|
 | **CondoPlay** | Condominium management platform with a mobile app and REST API for residents, managers, doormen and admins: notices, finances, bookings, incidents, visitors, deliveries and messaging. Backend in production; app submitted to the App Store and Google Play. | Flutter · NestJS · PostgreSQL · Prisma |
+| **PlayHub Partner Portal** | Monorepo with two web systems on a shared Supabase database: a portal for ISP partners and an internal management system for the PlayHub team. Security and access separation between roles come first. Being migrated from a Lovable prototype to a versioned, tested codebase. | TanStack Start · React 19 · Supabase · Tailwind CSS |
 | **Casa Alonso** | Operations and online store for a candle and home fragrance brand, built together with its owner. In-store operation first, then a custom e-commerce site. | Medusa v2 · Next.js · PostgreSQL · Playwright |
 | **TikTok Curiosities** | Pipeline that turns a JSON of facts into narrated short-form videos: Brazilian Portuguese text-to-speech, captions and programmatic rendering. | Remotion · React · TypeScript |
 
@@ -57,6 +58,7 @@ These are the tools used in the projects above, not a claim of expertise in each
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Medusa](https://img.shields.io/badge/Medusa-7C53FF?style=flat-square&logo=medusa&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
